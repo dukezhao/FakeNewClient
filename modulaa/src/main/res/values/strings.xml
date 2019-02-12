@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">modulaA</string>
+    <string name="scale_up_show_behavior">com.example.modulaa.widget.behavior.ScaleUpShowBehavior</string>
+</resources>
